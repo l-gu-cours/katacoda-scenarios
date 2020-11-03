@@ -8,6 +8,7 @@ Run a Unix command in the terminal :
 
 `echo "Run in Terminal"`{{execute}}
 
-### Title 3
-bla
-bla
+### Download Telosys CLI
+
+
+`wget https://www.telosys.org/download/telosys-cli/dl.php?ver=3.2.2-001`{{execute}}

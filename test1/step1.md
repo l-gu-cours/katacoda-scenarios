@@ -18,7 +18,7 @@ Check it with the following command :
 
 `unzip telosys-cli.zip`{{execute}}
 
-### Unzip the file
+### Change 'tt' file mode to 777 
 
 `chmod 777 tt`{{execute}}
 

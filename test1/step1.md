@@ -13,6 +13,7 @@ Check it with the following command :
 ### Create a 'bin' folder 
 
 `mkdir bin`{{execute}}
+
 `cd bin`{{execute}}
 
 ### Download Telosys zip file
@@ -26,5 +27,10 @@ Check it with the following command :
 ### Change 'tt' file mode to 777 
 
 `chmod 777 tt`{{execute}}
+
+### Telosys is now installed in 'bin' folder 
+
+`ls -l`{{execute}}
+
 
 

@@ -6,5 +6,5 @@ The JSON file defines
  - and environment. 
  
 You can find more about the layouts within our 
-scenarios at katacoda.com/docs/scenarios/layouts 
-and environments at katacoda.com/docs/scenarios/environments.
+scenarios at (katacoda.com/docs/scenarios/layouts)
+and environments at (katacoda.com/docs/scenarios/environments).

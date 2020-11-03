@@ -1,8 +1,8 @@
 First line in **step2.md**
 
-## Title 2
+## Launch Telosys CLI 
 
-Bla bla
+`./tt`{{execute}}
 
 
 ### Title 3

@@ -10,6 +10,11 @@ Check it with the following command :
 
 `java -version`{{execute}}
 
+### Create a 'bin' folder 
+
+`mkdir bin`{{execute}}
+`cd bin`{{execute}}
+
 ### Download Telosys zip file
 
 `wget 'https://www.telosys.org/download/telosys-cli/dl.php?ver=3.2.2-001' -O telosys-cli.zip`{{execute}}

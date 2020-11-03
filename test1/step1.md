@@ -4,6 +4,9 @@ First line in **step1.md**
 
 Bla bla
 
+Run a Unix command in the terminal :
+
+`echo "Run in Terminal"`{{execute}}
 
 ### Title 3
 bla

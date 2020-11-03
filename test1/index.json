@@ -20,7 +20,8 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "showide": true
   },
   "backend": {
     "imageid": "openjdk:15"

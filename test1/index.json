@@ -23,6 +23,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "node"
+    "imageid": "openjdk:15"
   }
 }

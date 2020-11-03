@@ -1,9 +1,10 @@
 The JSON file defines 
- - the scenario title, 
- - the description, 
- - steps order, 
- - the UI layout 
- - and environment. 
+ - scenario title
+ - description
+ - steps order
+ - UI layout 
+ - environment
+ - backend 
  
 You can find more about the layouts within our 
 

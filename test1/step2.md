@@ -6,11 +6,10 @@ First line in **step2.md**
 
 `mkdir project`{{execute}}
 
-`cd project`{{execute}}
 
 ## Launch Telosys CLI 
 
-`./tt`{{execute}}
+`bin/tt`{{execute}}
 
 
 ## Use '?' command to print help

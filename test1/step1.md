@@ -2,11 +2,13 @@ First line in **step1.md**
 
 ## Installation
 
-Bla bla
+### Prerequisites
 
-Run a Unix command in the terminal :
+Java 8 (or +) must be installed.
 
-`echo "Run in Terminal"`{{execute}}
+Check it with the following command :
+
+`java -version`{{execute}}
 
 ### Download Telosys zip file
 
@@ -15,5 +17,9 @@ Run a Unix command in the terminal :
 ### Unzip the file
 
 `unzip telosys-cli.zip`{{execute}}
+
+### Unzip the file
+
+`chmod 777 tt`{{execute}}
 
 

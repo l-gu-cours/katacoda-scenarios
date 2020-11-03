@@ -5,6 +5,6 @@ First line in **step2.md**
 `./tt`{{execute}}
 
 
-### Title 3
-bla
-bla
+## Use '?' command to print help
+
+`?`{{execute}}

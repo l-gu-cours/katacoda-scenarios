@@ -1,4 +1,4 @@
-First line in *step1.md*
+First line in **step1.md**
 
 ## Title 2
 
